@@ -27,8 +27,11 @@
       <file href="brand/fonts/Ubuntu-Light.ttf"/>
       <file href="brand/fonts/Ubuntu-Medium.ttf"/>
       <file href="brand/fonts/Ubuntu-Regular.ttf"/>
+      <file href="captions/ssp21-v1-long-call.ar.vtt"/>
       <file href="captions/ssp21-v1-long-call.en.vtt"/>
+      <file href="captions/ssp21-v2-medical-call.ar.vtt"/>
       <file href="captions/ssp21-v2-medical-call.en.vtt"/>
+      <file href="captions/ssp21-v3-update-alpha1.ar.vtt"/>
       <file href="captions/ssp21-v3-update-alpha1.en.vtt"/>
       <file href="fonts/CREDITS.txt"/>
       <file href="fonts/TwemojiCountryFlags.woff2"/>
